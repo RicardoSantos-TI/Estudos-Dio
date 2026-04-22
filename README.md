@@ -49,7 +49,7 @@ O uso estratégico do NotebookLM requer prompts precisos para evitar alucinaçõ
 | **Comparação** | "Crie uma tabela comparando Escalabilidade Vertical (Scale Up) e Horizontal (Scale Out). Qual serviço Azure automatiza esse processo?" | Identificação do 'Virtual Machine Scale Sets'. |
 | **Cenário Real** | "Uma empresa quer migrar um app legado sem mudar o código, mas quer se livrar da manutenção de hardware. Qual modelo de nuvem é o mais indicado?" | A resposta deve apontar para Nuvem Pública com modelo IaaS. |
 
-![Infográfico Modelos de Nuvem](assets/cloud_models.png)
+![Infográfico Modelos de Nuvem](assets/infografico.png)
 
 ### 🛠️ Cicatrizes e Troubleshooting (Cicatrizes)
 
