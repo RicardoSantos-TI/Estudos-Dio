@@ -73,7 +73,7 @@ O uso estratégico do NotebookLM requer prompts precisos para evitar alucinaçõ
 *   **CapEx vs OpEx:** A beleza da nuvem está na mudança de grandes gastos iniciais (Capital Expenditure) para custos baseados em consumo (Operational Expenditure).
 *   **Infraestrutura:** O Azure é dividido em **Regiões** (locais geográficos) e **Zonas de Disponibilidade** (data centers independentes dentro de uma região para alta disponibilidade).
 
-![Azure Infrastructure](assets/azure_infra.png)
+![Azure Infrastructure](assets/mind_map.png)
 
 ### 2. Glossário "Nota 10"
 
@@ -93,17 +93,9 @@ Utilize estes prompts no NotebookLM para revisões rápidas:
 
 ---
 
-## 🛠️ Como reproduzir este caderno
-
-1.  Acesse o [NotebookLM](https://notebooklm.google.com/).
-2.  Crie um novo caderno chamado **"AZ-900 Ricardo Santos"**.
-3.  Faça o upload dos links da Microsoft Learn listados na seção de **Curadoria**.
-4.  Utilize os **Prompts Estratégicos** documentados aqui para iniciar suas interações!
+## Acesse o [NotebookLM](https://notebooklm.google.com/notebook/654e3545-7f03-496e-a1ac-8015d538b739).
 
 ---
-
-> [!TIP]
-> **Dica para o Portfólio:** Mantenha seu README atualizado com novos insights à medida que avança na certificação!
 
 ---
 Desenvolvido com carinho por **Ricardo Santos** 🚀
