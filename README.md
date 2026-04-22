@@ -1,6 +1,6 @@
 # ☁️ Guia de Estudos: Microsoft Azure Fundamentals (AZ-900)
 
-![Banner Azure](assets/banner.png)
+![Banner Azure](assets/guia_de_estudos.png)
 
 ## 📌 Sobre este Projeto
 
