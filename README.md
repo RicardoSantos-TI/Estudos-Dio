@@ -75,7 +75,7 @@ O uso estratégico do NotebookLM requer prompts precisos para evitar alucinaçõ
 
 ![Azure Infrastructure](assets/mind_map.png)
 
-### 2. Glossário "Nota 10"
+### 2. Glossário
 
 *   **VNet (Virtual Network):** Sua rede lógica isolada no Azure.
 *   **Blob Storage:** Serviço para armazenar grandes quantidades de dados não estruturados.
